@@ -2,8 +2,7 @@
 "C1, C2",0603,2,0.1u,C6666325
 D1,D_SMA,1,D,C95872
 "D2, D3, D4",0603,3,LED,
-"J1, J2",Jack_3.5mm_CUI_SJ1-3523N_Horizontal,2,AudioJack3,
-J3,PinSocket_1x04_P2.54mm_Vertical,1,Conn_01x04_Socket,
+"J1, J2",Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles,2,AudioJack3,
 Q2,TO-92,1,2N2222,C21714170
 "R1, R3, R4, R5",1206,4,220R,C25336
 R2,1206,1,270R,C50842
